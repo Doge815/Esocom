@@ -1,0 +1,11 @@
+G:\C#\Esocom\Esocom\Esocom\bin\Debug\Esocom.exe.config
+G:\C#\Esocom\Esocom\Esocom\bin\Debug\Esocom.exe
+G:\C#\Esocom\Esocom\Esocom\bin\Debug\Esocom.pdb
+G:\C#\Esocom\Esocom\Esocom\obj\Debug\Esocom.csprojAssemblyReference.cache
+G:\C#\Esocom\Esocom\Esocom\obj\Debug\Esocom.Form1.resources
+G:\C#\Esocom\Esocom\Esocom\obj\Debug\Esocom.Properties.Resources.resources
+G:\C#\Esocom\Esocom\Esocom\obj\Debug\Esocom.Startmenue.resources
+G:\C#\Esocom\Esocom\Esocom\obj\Debug\Esocom.csproj.GenerateResource.cache
+G:\C#\Esocom\Esocom\Esocom\obj\Debug\Esocom.csproj.CoreCompileInputs.cache
+G:\C#\Esocom\Esocom\Esocom\obj\Debug\Esocom.exe
+G:\C#\Esocom\Esocom\Esocom\obj\Debug\Esocom.pdb
