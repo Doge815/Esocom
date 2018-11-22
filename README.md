@@ -1,4 +1,4 @@
-# HQ9--compiler
+# ESOCOM
 A compiler for a few esoteric programming languages, made with C tic tac toe (aka C#).
 Implemented languages:
 - HQ9+
